@@ -1,4 +1,1 @@
-# yolov5-demo
-# yolov5-demo
-# yolov5-demo
-# yolov5-demo
+目标检测接口+文档+coco128训练的权重文件
